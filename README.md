@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @Inky-13
-- 👀 I’m interested in everything dealing with computers and new technologies. From small constrained embedded systems to machines that can run complex A.I. algorithms.
-- 🌱 I’m currently learning more about ML/DL and how to apply such technologies to embedded systems for security.
-- 💞️ I’m looking to collaborate on anything dealing with computers and learning.
-- 📫 How to reach me, david.langus@yahoo.com
-
+As a recent graduate in computer engineering, I am looking to gain experience and further my career in the field. I am eager to take on new challenges and apply my knowledge and skills to innovative projects. I am excited to learn and grow as an engineer, and I am committed to collaborating with others to drive success.
 <!---
 Inky-13/Inky-13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
